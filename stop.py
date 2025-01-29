@@ -1,7 +1,4 @@
 
-import threading
-import requests
-import itertools
 
 # Firebase credentials (note: the private key should be stored securely)
 firebase_credentials = {
