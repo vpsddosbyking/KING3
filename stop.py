@@ -1,11 +1,4 @@
 
-import telebot
-import subprocess
-import firebase_admin
-from firebase_admin import credentials, firestore
-from datetime import datetime, timedelta, timezone
-import secrets
-import time
 import threading
 import requests
 import itertools
